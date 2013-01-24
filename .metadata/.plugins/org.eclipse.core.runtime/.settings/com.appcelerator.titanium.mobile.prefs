@@ -1,7 +1,0 @@
-ANDROID_SDK_PATH=/Applications/android-sdk-macosx
-DEFAULT_ANDROID_SCREEN_TYPE=WVGA854
-DEFAULT_ANDROID_SDK=Google APIs Android 2.2
-DEFAULT_MOBILE_WEB_BROWSER_NAME=Default system web browser
-DEFAULT_MOBILE_WEB_BROWSER_USE_GLOBAL=false
-DEFAULT_MOBILE_WEB_PREVIEW_SERVER_NAME=Built-in server
-eclipse.preferences.version=1
