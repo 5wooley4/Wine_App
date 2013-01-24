@@ -16,7 +16,11 @@ function ApplicationTabGroup(Window) {
 	
 	var tab2 = Ti.UI.createTab({
 		title: 'Wineries',
+<<<<<<< HEAD
 		icon: '/images/KS_nav_views.png',
+=======
+		icon: '/images/Factory.png', 
+>>>>>>> Titanium_App_details
 		window: win2
 	});
 	win2.containingTab = tab2;
