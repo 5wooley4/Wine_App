@@ -16,7 +16,7 @@ function ApplicationTabGroup(Window) {
 	
 	var tab2 = Ti.UI.createTab({
 		title: 'Wineries',
-		icon: '/images/Factory.png',
+		icon: '/images/Factory.png', 
 		window: win2
 	});
 	win2.containingTab = tab2;
