@@ -8,21 +8,22 @@ function ApplicationTabGroup(Window) {
 		win3 = new Window(L('My Wines'));
 	
 	var tab1 = Ti.UI.createTab({
-		title: L('My Profile'),
-		icon: '/images/KS_nav_ui.png',
+		title: 'My Profile',
+		icon: '/images/face.png',
 		window: win1
 	});
 	win1.containingTab = tab1;
 	
 	var tab2 = Ti.UI.createTab({
-		title: L('Wineries'),
-		icon: '/images/KS_nav_views.png',
+		title: 'Wineries',
+		icon: '/images/Factory.png',
 		window: win2
 	});
 	win2.containingTab = tab2;
 	
 	var tab3 = Ti.UI.createTab({
-		title: L('My Wines'),
+		title: 'My Wines',
+		icon: '/images/wine.png',
 		window: win3
 	});
 	
